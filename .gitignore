@@ -1,0 +1,10 @@
+# Build output
+server
+server.exe
+
+# Downloaded dependencies
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
